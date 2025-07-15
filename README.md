@@ -7,4 +7,5 @@ This is a very basic Movie App that allows you to see all of the available movie
 (3) This is how your blank 'Favorites' page looks before you select any favorite movies.  <img width="860" height="644" alt="Screen Shot 2025-07-15 at 1 13 56 PM" src="https://github.com/user-attachments/assets/ffb28a4d-317c-4891-b2dc-67666d2e63ab" /> <hr>
 (4) When you click on a movie on your 'Home' page, an overlay will appear with a heart icon in the top left hand corner.  You can click on this icon so that this movie will then appear on your 'Favorites' page, and the heart then turns red.  You can deselect from either the 'Home' or 'Favorites' pages. Please see the example below where the Superman movie is selected as a favorite. 
 <img width="848" height="705" alt="Screen Shot 2025-07-15 at 1 13 25 PM" src="https://github.com/user-attachments/assets/57976f33-e666-4460-937a-cf61f9e57d6b" /> <hr>
-
+(5) The screen shot below shows how you 'Favorites' page will look after some movies are selected. 
+<img width="857" height="898" alt="Screen Shot 2025-07-15 at 1 14 55 PM" src="https://github.com/user-attachments/assets/7901980d-4f49-4c9d-8c9f-5c6888a08fe2" /> <hr>
